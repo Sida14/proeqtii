@@ -1,0 +1,43 @@
+body {
+    margin: 0px;
+    background: rgb(14,0,255);
+    background: linear-gradient(90deg, rgba(14,0,255,1) 0%, rgba(55,58,149,1) 0%, rgba(4,9,73,1) 36%, rgba(47,47,149,1) 100%);
+}
+
+div {
+    width: 350px;
+    height: 200px;
+    background-color: darkblue;
+    border-radius: 20px;
+    margin-left: 750px;
+    margin-top: 300px;
+    
+    transition: transform 5s ease;
+}
+
+
+div:hover {
+    transform: rotateY(360deg);
+    transition-delay: 1s;
+  }
+
+
+ol {
+    color: yellow;
+}
+
+a {
+    color: yellow;
+    text-decoration: none;
+}
+
+
+p {
+    color: red;
+    font-size: 30px;
+    margin-left: 40px;
+    padding-top: 20px;
+}
+
+
+

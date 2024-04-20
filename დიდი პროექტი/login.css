@@ -1,0 +1,86 @@
+body {
+    margin: 0px;
+    background: rgb(14,0,255);
+    background: linear-gradient(90deg, rgba(14,0,255,1) 0%, rgba(55,58,149,1) 0%, rgba(4,9,73,1) 36%, rgba(47,47,149,1) 100%);
+}
+
+.logindiv {
+    width: 370px;
+    height: 500px;
+    background-color:darkblue ;
+    border-radius: 20px;
+    margin-left: 750px;
+    margin-top: 200px;
+}
+
+.p1 {
+    font-size: 40px;
+    color: red;
+    margin-left: 80px;
+    padding-top: 60px;
+}
+
+.p2 {
+    color: red;
+}
+
+.p3 {
+    color: red;
+}
+
+#email {
+    width: 250px;
+    height: 40px;
+    border: black;
+    border-width: 4px;
+    border-radius: 5px;
+    margin-left: 50px;
+    margin-top: 20px;
+}
+
+#pass {
+    width: 250px;
+    height: 40px;
+    border: black;
+    border-width: 4px;
+    border-radius: 5px;
+    margin-left: 50px;
+    margin-top: 30px;
+}
+.login_a {
+    font-size: 20px;
+    text-decoration: none;
+    color: aqua;
+    margin-left: 50px;
+    
+}
+button {
+    width: 300px;
+    height: 50px;
+    margin-left: 30px;
+    margin-top: 29px;
+    border-radius: 20px;
+    background-color: yellow;
+}
+
+.p4 {
+    font-size: 20px;
+    margin-top: 12px;
+}
+
+
+.login_a1 {
+    text-decoration: none;
+    color: aqua;
+}
+.p3 {
+    margin-left: 60px;
+}
+
+.login_a:hover {
+    text-decoration: underline;
+}
+
+.login_a1:hover {
+    text-decoration: underline;
+}
